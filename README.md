@@ -1,4 +1,4 @@
-## Hi there 👋
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 👋
 
 My name is Heidi. I am a 3rd year university student in Computer Science at the University of Helsinki.
 
@@ -9,7 +9,7 @@ My name is Heidi. I am a 3rd year university student in Computer Science at the 
   
 <br>
 
-## 🚀 Tools I Have Used and Learned
+## 🚀 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐇𝐚𝐯𝐞 𝐔𝐬𝐞𝐝 𝐚𝐧𝐝 𝐋𝐞𝐚𝐫𝐧𝐞𝐝
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
