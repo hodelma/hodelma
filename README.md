@@ -9,7 +9,7 @@ My name is Heidi. I am a 3rd year university student in Computer Science at the 
   
 <br>
 
-## 🚀 Tools I Have Used and Learned:
+## 🚀 Tools I Have Used and Learned
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
