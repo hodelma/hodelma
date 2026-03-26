@@ -1,6 +1,6 @@
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 👋
 
-My name is Heidi. I am a 3rd year university student in Computer Science at the University of Helsinki.
+My name is Heidi. 3rd-year CS student exploring where tech meets business strategy. I turn data into actionable insights to make smarter decisions.
 
 <p align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/heiditapani" target="_blank">
