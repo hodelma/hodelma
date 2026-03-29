@@ -7,7 +7,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a></p>
 
-## 🚀 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐇𝐚𝐯𝐞 𝐔𝐬𝐞𝐝 𝐚𝐧𝐝 𝐋𝐞𝐚𝐫𝐧𝐞𝐝
+## 🚀 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐇𝐚𝐯𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
